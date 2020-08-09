@@ -17,7 +17,8 @@ public class FirstClass {
 		System.out.println("This is the first commit from removed repo");
 		
 		System.out.println("This is the seconft commit from removed master");
-
+		
+		System.out.println("first commit from afat branch");
 
 	}
 }
