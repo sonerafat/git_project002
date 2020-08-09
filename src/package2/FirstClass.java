@@ -19,6 +19,8 @@ public class FirstClass {
 		System.out.println("This is the seconft commit from removed master");
 		
 		System.out.println("first commit from afat branch");
+		
+		System.out.println("The second commit from local afat");
 
 	}
 }
